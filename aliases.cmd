@@ -7,3 +7,4 @@ DOSKEY clear=cls
 DOSKEY ~=cd %USERPROFILE%
 DOSKEY cmder=%USERPROFILE%\Downloads\Cmder.exe
 DOSKEY _vim=cd %USERPROFILE%\.vim
+DOSKEY ls=dir
