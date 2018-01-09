@@ -1,0 +1,1622 @@
+vagrant
+htdocs 
+alias htdocs=cd C:\xampp\htdocs\
+alias htdocs=cd C:\xampp\htdocs
+htdocs\
+alias xampp=cd C:\xampp
+xampp
+htdocs
+git clone git@bitbucket.org:wireboxteam/legal-asset-app.git
+ls -lrt
+cd legal-asset-app\
+git checkout staging && git pull origin staging
+php 
+php -a
+php --version
+C:\xampp\php\php-win.exe 
+C:\xampp\php\php-win.exe -a
+C:\xampp\php\php-win.exe -v
+C:\xampp\php\php.exe -v
+alias /d php
+vim C:\xampp\php\php.exe 
+alias php='C:\xampp\php\php'
+alias php='C:\xampp\php\php.exer'
+alias php='C:\xampp\php\php.exe'
+alias php='C:/xampp/php/php.exe'
+alias php=C:/xampp/php/php.exe
+alias php=\C:\xampp\php\php.exe
+alias php= C:\xampp\php\php.exe
+alias php=C:\xampp\php\php-win.exe
+php -
+alias php=C:\xampp\php\php.exe
+php
+php artisan 
+php.exe
+find
+find C:\ -iname "user-profile.cmd"
+cd C:
+~
+cd Downloads\
+cd config\
+cp user-profile.cmd user-profile.cmd.orig 
+ls
+vim user-profile.cmd
+source user-profile.cmd
+exit
+echo %CMDER_ROOT%
+xampp
+cd php
+ls
+exit
+cd php
+ls
+alias \d php
+alias /d php
+php.exe 
+php-win.exe 
+phpunit.bat 
+alias
+php
+history --merge
+history
+exit
+cd php
+ls
+exit
+alias \d php
+alias /d php
+php-win.exe 
+alias
+history --merge
+history
+C:\xampp\php\php.exe 
+cd php
+phpunit.bat 
+.\php.exe 
+~
+Downloads
+cd Downloads\
+ls -lrt
+open xampp-win32-7.0.26-0-VC14-installer.exe 
+xampp
+xampp-win32-7.0.26-0-VC14-installer.exe 
+htdocs 
+cd ..
+cd apache\conf\extra\
+ls
+vim httpd-vhosts.conf 
+php
+php.exe 
+exit
+xampp-win32-7.0.26-0-VC14-installer.exe 
+cd ..
+cd apache\conf\extra\
+vim httpd-vhosts.conf 
+php.exe 
+xampp
+cd php
+ls
+php-win.exe 
+php-cgi.exe 
+alias php=C:\xampp\php\php
+php
+php -v
+C:\xampp\php\php
+C:\xampp\php\php -v
+C:\xampp\php\php -a
+htdocs 
+ls -lrt
+exit
+git checkout staging && git pull origin staging
+php 
+php -a
+php --version
+C:\xampp\php\php-win.exe 
+C:\xampp\php\php-win.exe -a
+C:\xampp\php\php-win.exe -v
+C:\xampp\php\php.exe -v
+alias /d php
+vim C:\xampp\php\php.exe 
+alias php='C:\xampp\php\php'
+alias php='C:\xampp\php\php.exer'
+alias php='C:\xampp\php\php.exe'
+alias php='C:/xampp/php/php.exe'
+alias php=C:/xampp/php/php.exe
+alias php=\C:\xampp\php\php.exe
+alias php= C:\xampp\php\php.exe
+alias php=C:\xampp\php\php-win.exe
+php -
+alias php=C:\xampp\php\php.exe
+php
+php artisan 
+php.exe
+find
+find C:\ -iname "user-profile.cmd"
+cd C:
+~
+cd Downloads\
+cd config\
+cp user-profile.cmd user-profile.cmd.orig 
+ls
+vim user-profile.cmd
+source user-profile.cmd
+exit
+echo %CMDER_ROOT%
+xampp
+cd php
+ls
+exit
+cd php
+ls
+alias \d php
+alias /d php
+php.exe 
+php-win.exe 
+phpunit.bat 
+alias
+php
+history --merge
+history
+exit
+cd php
+ls
+exit
+alias \d php
+alias /d php
+php-win.exe 
+alias
+history --merge
+history
+C:\xampp\php\php.exe 
+cd php
+phpunit.bat 
+.\php.exe 
+Downloads
+ls -lrt
+open xampp-win32-7.0.26-0-VC14-installer.exe 
+xampp
+xampp-win32-7.0.26-0-VC14-installer.exe 
+htdocs 
+cd ..
+cd apache\conf\extra\
+ls
+vim httpd-vhosts.conf 
+php
+php.exe 
+exit
+xampp-win32-7.0.26-0-VC14-installer.exe 
+cd apache\conf\extra\
+vim httpd-vhosts.conf 
+php.exe 
+php-win.exe 
+php-cgi.exe 
+alias php=C:\xampp\php\php
+php
+php -v
+C:\xampp\php\php
+C:\xampp\php\php -v
+C:\xampp\php\php -a
+cd Sites\
+mkdir windows-dotfiles
+cd windows-dotfiles\
+git remote set origin git@github.com/ArunSahadeo/windows-dotfiles.git
+cp %USERPROFILE%\aliases.cmd .
+vim .git\config
+git remote set-url origin git@github.com:ArunSahadeo/windows-dotfiles.git
+git remote add origin git@github.com/ArunSahadeo/windows-dotfiles.git
+git show-ref
+git remote show origin
+git logf
+git push origin mas
+git push origin master
+git config --global user.email "arun@wirebox.co.uk"
+git config --global user.name "Arun Sahadeo"
+git remote add origin git@ArunSahadeo.github.com/windows-dotfiles.git
+git remote set-url origin git@github.com/ArunSahadeo/windows-dotfiles.git
+rm -rf .git
+git init
+git remote add origin git@github.com:ArunSahadeo/windows-dotfiles.git
+git add aliases.cmd 
+git commit -m "Initial commit"
+git push -u origin master
+sftp
+ftp
+cp %USERPROFILE\_vimrc .
+cp %USERPROFILE%\_vimrc mr-clutch-digital-diary\
+clip -o > .vimrc
+start .
+cd tmp\
+lsa
+find . -iname "*.log"
+which find
+~
+cd Downloads\
+vim bin\alias.bat 
+xampp
+cd apache\logs\
+cd php
+dir *.log /b/s
+htdocs
+history 
+history | grep "clutch"
+git clone git@bitbucket.org:wireboxteam/mr-clutch-blog.git
+cd mr-clutch-blog\
+cat ~\.ssh\id_rsa.pub 
+cat %USERPROFILE%\.ssh\id_rsa.pub 
+cat %USERPROFILE%\.ssh\id_rsa.pub | xclip
+ping -c1 mrclutch.com
+ping -c1 www.mrclutch.com
+ping www.mrclutch.com
+cat %USERPROFILE%\.ssh\id_rsa | clip
+perl
+start %USERPROFILE%\.ssh
+cat %USERPROFILE%\.ssh\id_rsa.pub | clip
+ssh forge@134.213.158.225
+cd wp-content\themes\mrclutch\
+git log --all --full-history -- *.css
+git log --all --full-history -- *.sql
+git log --diff-filter=D --summary | grep delete
+git log --diff-filter=D --summary | grep delete | grep "sql"
+git ls-files --deleted | grep "sql"
+git rev-list -n 1 HEAD -- clutchblog.sql
+ls -lrt
+git checkout remotes/origin/master -- clutchblog.sql
+git log --diff-filter=D --summary | grep "sql"
+git show b90744579a9a32c18d767b320953ed2c8531b926
+fcd ..
+cd ..
+git checkout b90744579a9a32c18d767b320953ed2c8531b926 /database/db_dump_09-01-17.sql
+git checkout b90744579a9a32c18d767b320953ed2c8531b926 database/db_dump_09-01-17.sql
+cd database\
+mysql
+git log
+git checkout ae587edc500b3eeb3241f13fd50b1363b915c0fc clutchblog.sql
+cp clutchblog.sql ..\..\mr-clutch-digital-diary\
+htdocs 
+ls
+vim C:\Windows\System32\drivers\etc\hosts 
+exit
+php.exe 
+xampp
+cd php
+php-win.exe 
+php-cgi.exe 
+alias php=C:\xampp\php\php
+php
+php -v
+C:\xampp\php\php
+C:\xampp\php\php -v
+C:\xampp\php\php -a
+Composer
+git clone git@bitbucket.org:wireboxteam/legal-asset-app.git
+git clone git@bitbucket.org:wireboxteam/mr-clutch-digital-diary.git
+cd mr-clutch-digital-diary\
+git checkout staging
+Composer install --ignore-platform-reqs
+vim re
+php vendor\bin\homestead make
+vim readme.md 
+vendor\\bin\\homestead make
+vim Homestead.yaml 
+vagrant up && vagrant ssh
+vagrant ssh
+htdocs 
+ls
+vim phpinfo.php
+ls -lrt
+exit
+vim Homestead.yaml 
+vagrant up && vagrant ssh
+ls
+vim phpinfo.php
+npm
+npm.exer
+npm.exe
+ls -lrt
+ping www.mrclutch.com
+~
+cd .ssh\
+cat id_rsa.pub 
+cat id_rsa.pub | clip
+ssh forge@134.213.158.225
+ssh -Tv forge@134.213.158.225
+ssh -i id_rsa forge@134.213.158.225
+ssh -i id_rsa.pub forge@134.213.158.225
+htdocs 
+cd mr-clutch-digital-diary\
+vim C:\Windows\System32\drivers\etc\hosts 
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin" 
+choco
+choco -?
+vagrant ssh
+vagrant halt
+exit
+alias \d php
+alias /d php
+php.exe 
+php-win.exe 
+phpunit.bat 
+alias
+php
+history --merge
+history
+exit
+cd php
+ls
+exit
+alias \d php
+alias /d php
+php-win.exe 
+alias
+history --merge
+history
+C:\xampp\php\php.exe 
+cd php
+phpunit.bat 
+.\php.exe 
+ls -lrt
+open xampp-win32-7.0.26-0-VC14-installer.exe 
+xampp
+xampp-win32-7.0.26-0-VC14-installer.exe 
+htdocs 
+cd ..
+cd apache\conf\extra\
+ls
+vim httpd-vhosts.conf 
+php
+php.exe 
+exit
+xampp-win32-7.0.26-0-VC14-installer.exe 
+cd apache\conf\extra\
+vim httpd-vhosts.conf 
+php.exe 
+xampp
+cd php
+php-win.exe 
+php-cgi.exe 
+alias php=C:\xampp\php\php
+php
+php -v
+C:\xampp\php\php
+C:\xampp\php\php -v
+C:\xampp\php\php -a
+exit
+cd profile.d\
+cd bin\
+vim bin\alias.bat 
+vim config\ConEmu.xml 
+vim vendor\cmder_exinit 
+vim settings 
+ls -lrta
+vim .ssh
+ssh -Tv git@github.com
+vim ..\..\.ssh\known_hosts 
+subl ..\..\.ssh\known_hosts 
+start ..\..\.ssh\
+vim ..\..\.ssh\id_rsa
+vim ..\..\.ssh\id_rsa.pub 
+cat ..\..\.ssh\id_rsa.pub | clip
+ssh keygen
+ssh key-gen
+ssh-keygen
+cd ..
+Downloads
+cd Downloads\
+cd config\
+mv.exe 
+mv.exe *rsa* %USERPROFILE%\.ssh
+~
+lsa
+cd .ssh\
+cat laravel_rsa.pub | clip
+ssh -Tv forge@134.213.158.225
+cat id_rsa.pub | clip
+start .
+ssh forge@134.213.158.225
+htdocs 
+cd legal-asset-app\
+Composer install --ignore-platform-reqs
+ls -lrt
+vim readme.md 
+vendor\\bin\\homestead make
+vim Homestead.yaml 
+ls
+cp vagrant.conf.yaml.example vagrant.conf.yaml
+vim vagrant.conf.yaml
+vim Vagrantfile 
+vagrant up && vagrant ssh
+ping -c1 www.mrclutch.com
+ping mrclutch.com
+vagrant ssh
+exit
+htdocs 
+git clone git@bitbucket.org:wireboxteam/momentumbio.git
+cd momentumbio\
+ls
+vim js\app.js 
+htdocs 
+cd legal-asset-app\
+vagrant ssh
+history 
+vagrant halt
+shutdown.exe -s
+shutdown.exe -s -f
+exit
+htdocs 
+cd legal-asset-app\
+git pull origin feature/feedback-changes 
+start chrome
+start firefox
+alias slack=start chrome "https://wirebox.slack.com"
+slack 
+alias trello=start chrome "https://trello.com/b/nh1vb9Go/wirebox-work-todo"
+alias donedone=start chrome "https://wirebox.mydonedone.com"
+do
+donedone 
+start thunderbird
+ssh forge@138.68.151.254
+exit
+ssh-keygen
+cd config\
+mv.exe 
+mv.exe *rsa* %USERPROFILE%\.ssh
+lsa
+cd .ssh\
+cat laravel_rsa.pub | clip
+ssh -Tv forge@134.213.158.225
+cat id_rsa.pub | clip
+ssh forge@134.213.158.225
+htdocs 
+cd legal-asset-app\
+Composer install --ignore-platform-reqs
+vim readme.md 
+vendor\\bin\\homestead make
+vim Homestead.yaml 
+ls
+cp vagrant.conf.yaml.example vagrant.conf.yaml
+vim vagrant.conf.yaml
+vim Vagrantfile 
+vagrant up && vagrant ssh
+ping -c1 www.mrclutch.com
+ping mrclutch.com
+vagrant ssh
+exit
+htdocs 
+git clone git@bitbucket.org:wireboxteam/momentumbio.git
+cd momentumbio\
+vim js\app.js 
+htdocs 
+cd legal-asset-app\
+vagrant ssh
+history 
+vagrant halt
+shutdown.exe -s
+shutdown.exe -s -f
+exit
+cd legal-asset-app\
+git pull origin feature/feedback-changes 
+start chrome
+start firefox
+alias slack=start chrome "https://wirebox.slack.com"
+slack 
+alias trello=start chrome "https://trello.com/b/nh1vb9Go/wirebox-work-todo"
+alias donedone=start chrome "https://wirebox.mydonedone.com"
+do
+donedone 
+start thunderbird
+ssh forge@138.68.151.254
+choco install mysql
+choco install mysql -y
+start powershell
+trello
+git clone git@bitbucket.org:wireboxteam/id-medical-builder.git
+cd id-medical-builder\
+vim README-WINDOWS.md 
+cat windows.bashrc 
+cat windows.bashrc | grep -i "ssh"
+cat windows.bashrc | rg -i "ssh"
+cat history | rg -i "ssh"
+history | rg -i "ssh"
+cat %cmder_root%\config
+cat %cmder_root%\config\history
+cd %cmder_root%\config\
+cd profile.d\
+mysql.exe
+mysql.sh
+Downloads
+alias
+rm mysql-installer-community-5.7.20.0.msi
+rm WinSCP-5.11.3-Setup.exe 
+rm python-3.*
+rm vs_community__1848062511.1515064985.exe 
+rm node-v8.9.4-x64.msi 
+rm Composer-Setup.exe 
+rm Git-2.15.1.2-64-bit.exe 
+rm "Sublime Text Build 3143 x64 Setup.exe" 
+vim desktop.ini
+cd mysql-5.7.20-winx64\
+vim README 
+mv mysql C:
+~
+cd Downloads\
+unzip mysql-5.7.20-winx64.zip 
+mv mysql-5.7.20-winx64 mysql
+cd C:
+cd .\c
+cd .\C:
+start .
+mv mysql C:\mysql
+cd CL\
+cd C:\
+ls -lrt
+find .
+find . -iname 'mysqldata'
+dir MySQLdata /AD /s
+dir /S MySQLdata
+dir /AD /B "MySQLdata" /S
+dir /AD /B MySQLdata /S
+dir /AD /B docs /S
+dir /AD /B data /S
+dir data /s /p
+dir data /b/s /p
+dir data /a/s /p
+dir mysql /a/s /p
+dir docs /a/s /p
+dir share /a/s /p
+dir MySQLdata /a/s /p
+vim my.ini
+cd D:\
+cd ..
+D:
+mkdir MySQLdata
+C:
+cd mysql\
+cd bin\
+ls
+mysqld
+mysql -uroot
+mysql -u root
+htdocs 
+mysql
+exit
+exit
+start thunderbird
+ssh forge@138.68.151.254
+htdocs 
+cd id-medical-builder\
+cp windows.bashrc %USERPROFILE\.bashrc
+cp windows.bashrc %USERPROFILE\\.bashrc
+cp windows.bashrc %USERPROFILE%\.bashrc
+mysl
+C:
+cd C:\
+vim mysql-init.txt
+net stop mysql
+mysqld --init-file=C:\\mysql-init.txt 
+mysql
+exit
+vim js\app.js 
+cd legal-asset-app\
+history 
+vagrant halt
+shutdown.exe -s
+shutdown.exe -s -f
+echo $SHELL
+start thunderbird.exer
+start thunderbird.exe
+start .
+start thunderbird
+alias thunderbird=start thunderbird
+thunderbird
+htdocs 
+git clone git@bitbucket.org:wireboxteam/wirebox.git
+history | grep -i "hosts"
+rgrep
+rg
+history | rg -i "host"
+history | rg -i "forge"
+vim C:\Windows\System32\drivers\etc\hosts 
+alias edit_hosts=vim C:\Windows\System32\drivers\etc\hosts 
+edit_hosts 
+cd id-medical-builder\
+cp ~\.ssh\id_rsa shared\.ssh\
+cp ~\.ssh\id_rsa shared\.ssh\id_rsa
+cp %USERPROFILE%\.ssh\id_rsa shared\.ssh\id_rsa
+vagrant up
+vagrant ssh
+ls
+vagrant up --provision
+~
+cd Downloads\
+ls -lrt
+exit
+cp ~\.ssh\id_rsa shared\.ssh\id_rsa
+cp %USERPROFILE%\.ssh\id_rsa shared\.ssh\id_rsa
+vagrant up
+vagrant ssh
+vagrant up --provision
+~
+cd Downloads\
+ls -lrt
+mysql
+cd C:\mysql\
+cd bin\
+vim C:\\mysql-init.txt 
+mysqld --init-file=C:\\mysql-init.txt 
+NET HELPMSG 3534
+D:\
+D:
+cd MySQLdata\
+ls
+rm *
+net start mysql
+net stp[ mysql
+net stop mysql
+rm -f *
+exit
+rm -f *
+cd Sites\
+git clone git@github.com/ArunSahadeo/ArunSahadeo.github.io.git
+git clone git@github.com:ArunSahadeo/ArunSahadeo.github.io.git
+cd ArunSahadeo.github.io\
+vim _config.yml 
+ls
+exit
+ls -lrt
+exit
+cp ~\.ssh\id_rsa shared\.ssh\id_rsa
+cp %USERPROFILE%\.ssh\id_rsa shared\.ssh\id_rsa
+vagrant up
+vagrant ssh
+vagrant up --provision
+~
+cd Downloads\
+cd C:\mysql\
+vim C:\\mysql-init.txt 
+mysqld --init-file=C:\\mysql-init.txt 
+NET HELPMSG 3534
+D:\
+D:
+cd MySQLdata\
+ls
+rm *
+net start mysql
+net stp[ mysql
+net stop mysql
+rm -f *
+exit
+rm -f *
+cd Sites\
+git clone git@github.com/ArunSahadeo/ArunSahadeo.github.io.git
+git clone git@github.com:ArunSahadeo/ArunSahadeo.github.io.git
+cd ArunSahadeo.github.io\
+vim _config.yml 
+cd c:\
+CD xampp\
+LS
+pwd
+ls -lrt
+cd mysql\
+cd bin\
+mysql
+git clone git@bitbucket.org:wireboxteam/platinum-gym.git
+npm install
+npm i g gulp
+edit_hosts 
+htdocs 
+vim index.php 
+mkdir html
+mv *.html html\
+mv *.php html\
+mv dashboard\ html\dashboard
+cd html\
+mv *.css html\
+mv *.ico html\
+mv img\ html\img
+vim ..\..\apache\conf\extra\httpd-vhosts.conf
+vim ..\apache\conf\extra\httpd-vhosts.conf
+cd platinum-gym\
+gulp
+npm
+npm run gulp
+cd %appdata%
+cd npm
+cd etc\
+ls
+cd ..
+npm install -g gulp
+exit
+mv *.php html\
+mv dashboard\ html\dashboard
+cd html\
+mv *.css html\
+mv *.ico html\
+mv img\ html\img
+vim ..\..\apache\conf\extra\httpd-vhosts.conf
+vim ..\apache\conf\extra\httpd-vhosts.conf
+npm
+npm run gulp
+cd %appdata%
+cd npm
+cd etc\
+cd ..
+npm install -g gulp
+cd platinum-gym\
+gulp
+rg -Rni "get your child into holiday camp here" .
+rg -Ri "get your child into holiday camp here" .
+rg -i "get your child into holiday camp here" .
+vim hemel-hempstead.php 
+ls -lrta
+rg -i "show" .
+vim assets\js\script.js 
+git status
+git add assets\js\script.js hemel-hempstead.php 
+git diff package.json 
+git commit -m "#34: Hemel Hempstead page"
+git push
+ncftp
+ncftp -u platinumgym.com -p dYyG/qmz- 79.170.44.26
+ping platinum.gym
+ipconfig.exe 
+~
+Downloads\
+cd Downloads\
+unzip BrowserStackLocal-win32.zip 
+mv BrowserStackLocal.exe C:\
+BrowserStackLocal.exer
+cd C:\
+ls
+mkdir tools
+mv BrowserStackLocal.exe tools\
+cd tools\
+mkdir bin
+mv BrowserStackLocal.exe bin\
+htdocs 
+./BrowserStackLocal.exe
+BrowserStackLocal.exe
+exit
+git add assets\js\script.js hemel-hempstead.php 
+git diff package.json 
+git commit -m "#34: Hemel Hempstead page"
+git push
+ncftp
+ncftp -u platinumgym.com -p dYyG/qmz- 79.170.44.26
+ping platinum.gym
+ipconfig.exe 
+Downloads\
+unzip BrowserStackLocal-win32.zip 
+mv BrowserStackLocal.exe C:\
+BrowserStackLocal.exer
+mkdir tools
+mv BrowserStackLocal.exe tools\
+cd tools\
+mkdir bin
+mv BrowserStackLocal.exe bin\
+htdocs 
+./BrowserStackLocal.exe
+BrowserStackLocal.exe
+cd C:\
+cd xampp\apache\conf\extra\
+ls
+vim httpd-vhosts.conf 
+"thunderbird
+thunderbird
+~
+cd Downloads\
+unzip "Adobe Creative Cloud Collection (2014) .zip" 
+edit_hosts 
+exit
+mv img\ html\img
+vim ..\..\apache\conf\extra\httpd-vhosts.conf
+vim ..\apache\conf\extra\httpd-vhosts.conf
+npm
+npm run gulp
+cd %appdata%
+cd npm
+cd etc\
+npm install -g gulp
+gulp
+rg -Rni "get your child into holiday camp here" .
+rg -Ri "get your child into holiday camp here" .
+rg -i "get your child into holiday camp here" .
+vim hemel-hempstead.php 
+rg -i "show" .
+vim assets\js\script.js 
+git status
+git add assets\js\script.js hemel-hempstead.php 
+git diff package.json 
+git commit -m "#34: Hemel Hempstead page"
+git push
+ncftp
+ncftp -u platinumgym.com -p dYyG/qmz- 79.170.44.26
+ping platinum.gym
+ipconfig.exe 
+Downloads\
+unzip BrowserStackLocal-win32.zip 
+mv BrowserStackLocal.exe C:\
+BrowserStackLocal.exer
+cd C:\
+mkdir tools
+mv BrowserStackLocal.exe tools\
+cd tools\
+mkdir bin
+mv BrowserStackLocal.exe bin\
+./BrowserStackLocal.exe
+BrowserStackLocal.exe
+choco install irssi
+choco install irssi -d -v
+vim C:\ProgramData\chocolatey\config\chocolatey.config
+cd Sites\
+git clone https://github.com/irssi/irssi
+set PATH=%PATH%;C:\Program Files\7-Zip\
+7z
+7z e irssi-1.0.2-win-64bit-build1.7z 
+cd irssi\
+ls -lrta
+mv irssi.* C:\tools\bin\
+mv *.ps1 C:\tools\bin\
+irssi
+vim help
+mkdir irssi
+mkdir irssi-unzip
+mv irssi-1.0.2.tar.gz irssi-unzip\
+gunzip
+LS
+cd irssi-1.0.2\
+nmake
+vsvars32.bat
+cd ../..
+mv make-3.81-bin.zip irssi-unzip\
+unzip make-3.81-bin.zip 
+cd bin\
+mv make.exe C:\tools\bin\
+~
+cd Downloads\
+mv libintl-0.14.4-bin.zip irssi-unzip\
+cd irssi-unzip\
+unzip libintl-0.14.4-bin.zip 
+make
+rm irssi-1.0.2.tar.gz 
+rm libintl-0.14.4-bin.zip 
+cd ..
+vim apache\conf\extra\httpd-vhosts.conf 
+npm install -g ngrok
+ngrok
+htdocs\
+htdocs
+cd platinum-gym\
+ngrok http --host-header=platinum.gym 80
+ngrok http --host-header=platinum.gym
+ngrok http 80 --host-header=http://platinum.gym
+ngrok http 80 --host-header=platinum.gym
+ipconfig
+htdocs 
+ls -lrt
+cd legal-asset-app\
+ls
+vagrant up && vagrant ssh
+vagrant halt
+exit
+cd tools\
+mkdir bin
+mv BrowserStackLocal.exe bin\
+./BrowserStackLocal.exe
+BrowserStackLocal.exe
+BrowserStackLocal.exe --key L1s3gjMJiyiIfsLXd7dR
+htdocs 
+cd id-medical-builder\
+vagrant up
+ls
+vagrant destroy --force
+vagrant up && vagrant ssh
+vagrant ssh
+exit
+BrowserStackLocal.exe --key L1s3gjMJiyiIfsLXd7dR
+htdocs 
+cd id-medical-builder\
+vagrant up
+vagrant destroy --force
+vagrant up && vagrant ssh
+vagrant ssh
+slack 
+trello 
+donedone 
+"thunderbird
+thunderbird
+history > history.txt
+clear
+history 
+alias skype=start skype
+start
+start skype
+Skype.exe
+skype.exe
+start Skype.exe
+start skype.exe
+start "skype"
+Skypr
+Skype
+"C:\Program Files (x86)\Skype\Phone\skype.exe"
+start .
+where
+where skype
+where Skype
+where mysql-init.txt
+where /R C:\ mysql-init.txt
+where /R C:\ *skype*
+start C:\Program Files\WindowsApps
+start "C:\Program Files\WindowsApps"
+start C:\Program Files
+open C:\
+start C:\
+cd C:\Program Files
+cd "WindowsApps\
+ls -lrt
+where /R . *skype*
+cd Microsoft.SkypeApp_12.13.257.0_
+cd Microsoft.SkypeApp_12.13.257.0_x64__kzf8qxf38zg5c\
+ls
+SkypeApp.exe 
+SkypeApp
+exit
+ios_webkit_debug_proxy --port=9222
+ios_webkit_debug_proxy 
+eexit
+exit
+start "skype"
+Skypr
+Skype
+"C:\Program Files (x86)\Skype\Phone\skype.exe"
+start .
+where
+where skype
+where Skype
+where mysql-init.txt
+where /R C:\ mysql-init.txt
+where /R C:\ *skype*
+start C:\Program Files\WindowsApps
+start "C:\Program Files\WindowsApps"
+start C:\Program Files
+open C:\
+start C:\
+cd C:\Program Files
+cd "WindowsApps\
+where /R . *skype*
+cd Microsoft.SkypeApp_12.13.257.0_
+cd Microsoft.SkypeApp_12.13.257.0_x64__kzf8qxf38zg5c\
+SkypeApp.exe 
+SkypeApp
+cd platinum-gym\
+vim includes\header-top.php 
+rg -Ri "modal" .
+rg -R "modal" .
+rg "modal" .
+rg "modal" assets\
+rg "modal" includes\
+mkdir -p includes\forms
+vim includes\header-bottom.php 
+git diff includes\header-bottom.php 
+git add includes\header-bottom.php 
+git commit -m "Make popup forms have 12 cols for mobile"
+git pushj
+rm -rf includes\forms\
+rm -rf -p/
+rm -rf \-p/
+cd -p\
+cd ..
+rm -rf .\-p\
+"thunderbird
+thunderbird
+ncftp
+grep -Rni "modal-open" .
+grep -Rni "modal-open" --exclude="node_modules" .
+grep -Rni "modal-open" --exclude="node_modules" assets\
+clear
+reset
+grep -Rni "modal-open" --exclude="node_modules" assets\scss\
+grep -Rni "modal-open" --exclude="node_modules" assets\css\
+vim assets\scss\common\_responsive.scss 
+gulp
+git status
+git addassets/scss/common/_responsive.scss
+git add assets/scss/common/_responsive.scss
+git commit -m "Cursor IOS fix"
+git push
+ncftp -u platinumgym.com -p dYyG/qmz- 79.170.44.26
+vim assets\css\main.css 
+edit_hosts 
+ipconfig /flushdns
+htdocs 
+git clone git@bitbucket.org:wireboxteam/perigoe.git
+ls -lrt
+cd perigoe\
+vim contributors.txt 
+chmod -R storage\ 775
+chmod -R public\docs_folder\ 775
+chmod -R public\docs_folder 775
+chmod -R public/docs_folder 775
+chmod -R 775 public\docs_folder\
+ls
+composer install --ignore-platform-reqs
+ping curtisandstaub.org
+ssh root@78.109.166.243
+ssh -p 2020 root@78.109.166.243
+sftp -oPort=2222 wirebox-user-staging@
+ping wirebox.sftp.wpengine.cm
+ping wirebox.sftp.wpengine.com
+sftp -oPort=2222 wirebox-user-staging@35.189.119.83
+exit
+remotedebug_ios_webkit_adapter --port=9000
+remotedebug_ios_webkit_adapter
+exit
+SkypeApp.exe 
+SkypeApp
+htdocs 
+cd platinum-gym\
+grep
+grep -R
+grep -Rn
+grep -Rni
+grep -Rni "closebtn" .
+grep -Rni "closebtn" assets\
+vim assets\scss\common\_responsive.scss 
+vim assets\scss\common\_pages.scss 
+gulp
+ls
+vim includes\header-bottom.php 
+git status
+git add assets\scss\common\_pages.scss includes\header-bottom.php 
+git diff package.json 
+git checkout -- package.json 
+git commit -m "Make modal close button not looked crop, fix width of form submit button on modal"
+git push
+history 
+ios_webkit_debug_proxy.exe 
+exit
+exit
+cd Downloads\
+start campaign (1).mp4
+start 'campaign (1).mp4'
+mv "campaign (1).mp4" campaign-orig.mp4
+ls -lrtq
+start campaign-orig.mp4 
+start campaign.mp4 
+vim contributors.txt 
+chmod -R storage\ 775
+chmod -R public\docs_folder\ 775
+chmod -R public\docs_folder 775
+chmod -R public/docs_folder 775
+chmod -R 775 public\docs_folder\
+ls
+composer install --ignore-platform-reqs
+ping curtisandstaub.org
+ssh root@78.109.166.243
+ssh -p 2020 root@78.109.166.243
+sftp -oPort=2222 wirebox-user-staging@
+ping wirebox.sftp.wpengine.cm
+ping wirebox.sftp.wpengine.com
+sftp -oPort=2222 wirebox-user-staging@35.189.119.83
+exit
+remotedebug_ios_webkit_adapter --port=9000
+remotedebug_ios_webkit_adapter
+exit
+SkypeApp.exe 
+SkypeApp
+htdocs 
+cd platinum-gym\
+grep
+grep -R
+grep -Rn
+grep -Rni
+grep -Rni "closebtn" .
+grep -Rni "closebtn" assets\
+vim assets\scss\common\_responsive.scss 
+vim assets\scss\common\_pages.scss 
+gulp
+vim includes\header-bottom.php 
+git status
+git add assets\scss\common\_pages.scss includes\header-bottom.php 
+git diff package.json 
+git checkout -- package.json 
+git commit -m "Make modal close button not looked crop, fix width of form submit button on modal"
+git push
+history 
+ios_webkit_debug_proxy.exe 
+exit
+Downloads\
+unzip ffmpeg-20170130-cba4f0e-win64-static.zip 
+cd ffmpeg-20170130-cba4f0e-win64-static\
+less README.txt 
+cd bin\
+mv *.exe C:\tools\bin\
+ffmpeg.exe 
+cd %USERPROFILE%
+cd Downloads\
+ls
+ffmpeg -i Generic-Online_FEMALE.mov -v:c h264 -q:v 6 -a:c aac -q:a 6 -resize 554x444 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -a:c aac -q:a 6 -resize 554x444 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -acodec aac -q:a 6 -resize 554x444 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -acodec aac -q:a 6 -crf 25 scale=554x444 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -acodec aac -q:a 6 -crf 25 scale=554:444 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -acodec aac -q:a 6 -crf 25 -vf scale=554:444 campaign.mp4
+open campaign.mp4 
+ffmpeg -i Generic-Online_FEMALE.mov 
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 6 -crf 25 -vf scale=554:444 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.movb
+ffmpeg -i Generic-Online_FEMALE.mov
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 6 -crf 25 -vf scale=554:311 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -acodec aac -q:a 6 -crf 25 -vf scale=554:311 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 25 -vf scale=554:311 campaign.mp4
+ls -lrt
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 25 -vf scale= campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 25 -vf scale=480:270 campaign.mp4
+ rm campaign.mp4 
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 30 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 35 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 20 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 18 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 15 -vf scale=480:270 campaign.mp4
+rm campaign.mp4 
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 10 -vf scale=480:270 campaign.mp4
+start campaign.mp4 
+start "campaign (1).mp4"
+git push
+history 
+ios_webkit_debug_proxy.exe 
+exit
+htdocs 
+cd mr-clutch-digital-diary\
+ls
+git checkout -b fix/update-ad-video
+git checkout staging
+git branch -D fix/update-ad-video 
+vim database\seeds\VideosTableSeeder.php 
+mkdir -p public\frontend\videos\4
+ffmpeg -i Generic-Online_FEMALE.mov
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 6 -crf 25 -vf scale=554:311 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -acodec aac -q:a 6 -crf 25 -vf scale=554:311 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 25 -vf scale=554:311 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 25 -vf scale= campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 25 -vf scale=480:270 campaign.mp4
+ rm campaign.mp4 
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 30 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 35 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 20 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 18 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 15 -vf scale=480:270 campaign.mp4
+rm campaign.mp4 
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 10 -vf scale=480:270 campaign.mp4
+start "campaign (1).mp4"
+history 
+ios_webkit_debug_proxy.exe 
+git checkout -b fix/update-ad-video
+git checkout staging
+git branch -D fix/update-ad-video 
+vim database\seeds\VideosTableSeeder.php 
+mkdir -p public\frontend\videos\4
+cd legal-asset-app\
+cp vagrant.conf.yaml.example ..\mr-clutch-digital-diary\
+vim Vagrant
+vim Vagrantfile 
+cp campaign.* C:\xampp\htdocs\mr-clutch-digital-diary\public\frontend\videos\4\
+start campaign.mp4 
+cd mr-clutch-digital-diary\
+git add public\frontend\videos\4\
+git commit -m "Add new ad frontend videos"
+git push
+git checkout live
+git merge staging
+git pull origin live
+git log
+git push origin live
+ls -lrt
+ping staging.www.mr-clutch.testmyurl.co.uk
+ping mrclutch.com
+git checkout -b feature/35-bristol-fishponds-24-mot
+grep -Rni --exclude="*.git, *.json, *.js, *.scss, *.css*, *.yaml, *.xml, *.sql, *.txt, *.md, *.Markdown, *.htm*, *.lo*" --exclude-dir={auth,bootstrap,build,node_modules,public,storage,tests,vendor} "participating" .
+grep -Rni --exclude="*.git, *.json, *.js, *.scss, *.css*, *.yaml, *.xml, *.sql, *.txt, *.md, *.Markdown, *.htm*, *.lo*" --exclude-dir={auth,bootstrap,build,database,node_modules,public,storage,tests,vendor} "participating" .
+grep -Rni --exclude="*.git, *.json, *.js, *.scss, *.css*, *.yaml, *.xml, *.sql, *.txt, *.md, *.Markdown, *.htm*, *.lo*" --exclude-dir={auth,bootstrap,build,database,node_modules,public,storage,tests,vendor} "participating" resources\
+vim resources\views\website\pages\participating-branches.blade.php 
+grep -Rni --exclude="*.git, *.json, *.js, *.scss, *.css*, *.yaml, *.xml, *.sql, *.txt, *.md, *.Markdown, *.htm*, *.lo*" --exclude-dir={auth,bootstrap,build,database,node_modules,public,storage,tests,vendor} "24 or" resources\views\
+grep -Rni --exclude="*.git, *.json, *.js, *.scss, *.css*, *.yaml, *.xml, *.sql, *.txt, *.md, *.Markdown, *.htm*, *.lo*" --exclude-dir={auth,bootstrap,build,database,node_modules,public,storage,tests,vendor} "24" resources\views\
+vim resources\views\website\partials\promo-blocks\mot.blade.php 
+git add resources\views\website\pages\participating-branches.blade.php 
+git commit -m "#35: Bristol Fishponds - £24 MOTs"
+git push origin feature/35-bristol-fishponds-24-mot
+ssh forge@134.213.158.225
+pinG staging.www.mr-clutch.testmyurl.co.uk
+ssh forge@138.68.151.254
+htdocs 
+alias
+aliases
+echo aliases
+~
+cd Downloads\
+ls
+start .
+start Photoshop
+alias photoshop=start Photoshop
+exit
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 18 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 15 -vf scale=480:270 campaign.mp4
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 8 -acodec aac -q:a 8 -crf 10 -vf scale=480:270 campaign.mp4
+start "campaign (1).mp4"
+git push
+history 
+ios_webkit_debug_proxy.exe 
+git checkout -b fix/update-ad-video
+git branch -D fix/update-ad-video 
+mkdir -p public\frontend\videos\4
+Downloads\
+cd Downloads\
+rm campaign.mp4 
+ffmpeg -i Generic-Online_FEMALE.mov -vcodec h264 -q:v 6 -acodec aac -q:a 6 -crf 25 campaign.mp4
+ls -lrt
+start campaign.mp4 
+ffmpeg -i campaign.mp4 -c:v libvpx -b:v 8M -c:a libvorbis campaign.webm
+ffmpeg -i campaign.mp4 -c:v libtheora -ac 2 -c:a libvorbis campaign.ogv
+edit_hosts 
+htdocs 
+cd mr-clutch-digital-diary\
+cd public\frontend\videos\4\ 
+mv campaign.mp4 maidstone.mp4
+mv campaign.ogv maidstone.ogv
+mv campaign.webm maidstone.webm
+git add maidstone.*
+git add ./campaign.*
+git commit -m "Rename frontend campaign videos to see if being cached"
+cd ../../../..
+git reset --soft HEAD~1
+git log
+ls
+git add database\seeds\VideosTableSeeder.php public\frontend\videos\4\*
+git commit -m "Rename frontend campaign videos to avoid naming conflicts, truncate video table before seeding"
+git checkout live
+git branch
+git pull origin live
+git merge staging 
+vim database\seeds\VideosTableSeeder.php 
+git status
+git add database\seeds\VideosTableSeeder.php 
+git commit -m "Rename Maidstone videos"
+git push origin live
+git checkout staging
+git merge origin live
+git push origin staging
+exit
+git checkout staging
+git branch -D fix/update-ad-video 
+vim database\seeds\VideosTableSeeder.php 
+mkdir -p public\frontend\videos\4
+htdocs 
+cd mr-clutch-digital-diary\
+cp vagrant.conf.yaml.example vagrant.conf.yaml
+vim vagrant.conf.yaml
+vim Vagrantfile 
+vagrant up && vagrant ssh
+cd %CMDER_ROOT%
+lls
+cd config\
+ls
+vim user-aliases.cmd 
+alias photoshop=start Photoshop
+exit
+alias
+htdocs 
+~
+"exit
+exit
+alias
+exit
+cd Downloads\
+ls -lrt
+ping dev-www.mrclutch.com
+exit
+exit
+git checkout staging
+git branch -D fix/update-ad-video 
+vim database\seeds\VideosTableSeeder.php 
+mkdir -p public\frontend\videos\4
+htdocs 
+cp vagrant.conf.yaml.example vagrant.conf.yaml
+vim vagrant.conf.yaml
+vim Vagrantfile 
+vagrant up && vagrant ssh
+lls
+vim user-aliases.cmd 
+alias photoshop=start Photoshop
+exit
+alias
+~
+"exit
+exit
+history 
+alias
+echo "Hello" && echo 1
+echo Hello && echo 1
+e.
+photoshop
+vim config\user-aliases.cmd 
+cd ..
+cmderr
+cd ..\Desktop\
+cd platinum-gym\
+vim hemel-hempstead.php 
+grep -Rni --exclude="*.git, *.js, *.json, *.css*" --exclude-dir={node_modules} .
+grep -Rni --exclude="*.git, *.js, *.json, *.css*" --exclude-dir={.git,node_modules} 'closebtn' assets\
+vim assets\scss\common\_pages.scss 
+gulp
+git status
+git add hemel-hempstead.php assets\scss\common\_pages.scss 
+git commit -m "Center close button within modals for IE, rename camp to camps"
+git push
+ncftp -u platinumgym.com -p dYyG/qmz- 79.170.44.26
+history | grep -ni "grep"
+cat %CMDER_ROOT%\config.history
+cat %CMDER_ROOT%\config\history
+d %CMDER_ROOT%
+cd %CMDER_ROOT%
+cd config\
+vim profile.d\
+vim settings 
+htdocs 
+cd mr-clutch-digital-diary\
+grep -Rni "" --exclude="*.git, *.js, *.txt, *.sql, *.yaml, *.conf, *.lo*, *.md, *.example, *.css*, *.scss, *.htm*" --exclude-dir={} .
+rm -rf .\-p\
+grep -Rni "" --exclude="*.git, *.js, *.txt, *.sql, *.yaml, *.conf, *.lo*, *.md, *.example, *.css*, *.scss, *.htm*" --exclude-dir={auth,bootstrap,build,node_modules,public,storage,tests,vendor} .
+ls
+grep -Rni --exclude=\*.{git,js,txt,sql,yaml,conf,lo*,md,example,css*,scss,htm*} --exclude-dir={assets,auth,bootstrap,build,node_modules,public,storage,tests,vendor} "actualbranch" .
+vim app\Models\Branch.php 
+vim resources\views\website\pages\services\partials\branch-address.php 
+mysql -uhomestead -psecret clutch
+git pull origin staging
+git push origin feature/492-branch-list-number-not-clickable
+exit
+htdocs 
+cd mr-clutch-digital-diary\
+vim resources\views\website\pages\contact.blade.php 
+exit
+"exit
+exit
+alias
+cd platinum-gym\
+git log
+git diff-tree --no-commit-id --name-only -r ecff222f59dc98e0644e0c441bc17c153d1870cf
+htdocs 
+cd mr-clutch-digital-diary\
+ls
+git checkout feature/492-branch-list-number-not-clickable 
+git branch
+vagrant ssh
+vagrant halt
+exit
+cd platinum-gym\
+git log
+git diff-tree --no-commit-id --name-only -r ecff222f59dc98e0644e0c441bc17c153d1870cf
+cd mr-clutch-digital-diary\
+git checkout feature/492-branch-list-number-not-clickable 
+vagrant ssh
+vagrant halt
+git clone git@github.com:ArunSahadeo/radio4-schedule.git
+cd radio4-schedule\
+npm install
+git branch
+npm i -g electron
+gulp
+npm i -g webpack
+webpack
+npm start
+slack
+ping mike.id-medical.com
+htdocs 
+ls -lrt
+mkdir optimised-idm-images
+cd optimised-idm-images\
+ls
+alias
+wget
+wget64.exe
+alias wget=wget64.exe
+$
+wget64.exe images.txt
+wget64.exe (cat images.txt)
+wget64.exe $(cat images.txt)
+powershell
+exit
+cd platinum-gym\
+vim hemel-hempstead.php 
+grep -Rni --exclude="*.git, *.js, *.json, *.css*" --exclude-dir={node_modules} .
+grep -Rni --exclude="*.git, *.js, *.json, *.css*" --exclude-dir={.git,node_modules} 'closebtn' assets\
+vim assets\scss\common\_pages.scss 
+gulp
+git add hemel-hempstead.php assets\scss\common\_pages.scss 
+git commit -m "Center close button within modals for IE, rename camp to camps"
+ncftp -u platinumgym.com -p dYyG/qmz- 79.170.44.26
+history | grep -ni "grep"
+cat %CMDER_ROOT%\config.history
+cat %CMDER_ROOT%\config\history
+d %CMDER_ROOT%
+cd %CMDER_ROOT%
+cd config\
+vim profile.d\
+vim settings 
+htdocs 
+cd mr-clutch-digital-diary\
+grep -Rni "" --exclude="*.git, *.js, *.txt, *.sql, *.yaml, *.conf, *.lo*, *.md, *.example, *.css*, *.scss, *.htm*" --exclude-dir={} .
+rm -rf .\-p\
+grep -Rni "" --exclude="*.git, *.js, *.txt, *.sql, *.yaml, *.conf, *.lo*, *.md, *.example, *.css*, *.scss, *.htm*" --exclude-dir={auth,bootstrap,build,node_modules,public,storage,tests,vendor} .
+ls
+grep -Rni --exclude=\*.{git,js,txt,sql,yaml,conf,lo*,md,example,css*,scss,htm*} --exclude-dir={assets,auth,bootstrap,build,node_modules,public,storage,tests,vendor} "actualbranch" .
+vim resources\views\website\pages\services\partials\branch-address.php 
+mysql -uhomestead -psecret clutch
+git push origin feature/492-branch-list-number-not-clickable
+exit
+htdocs 
+cd mr-clutch-digital-diary\
+exit
+"exit
+exit
+alias
+cd platinum-gym\
+git diff-tree --no-commit-id --name-only -r ecff222f59dc98e0644e0c441bc17c153d1870cf
+git checkout feature/492-branch-list-number-not-clickable 
+vagrant ssh
+vagrant halt
+cd mr-clutch-digital-diary\
+git checkout feature/35-bristol-fishponds-24-mot 
+git push origin feature/35-bristol-fishponds-24-mot 
+git checkout staging && git pull origin staging
+git push origin feature/492-branch-list-number-not-clickable 
+git pull origin stagingh
+git log
+git pull
+vim resources\views\website\pages\contact.blade.php 
+git addresources\views\website\pages\contact.blade.php 
+git add resources\views\website\pages\contact.blade.php 
+git commit -m "Add tel: to Head Office tel link"
+git merge staging 
+start .
+git checkout staging
+git push origin staging
+git merge staging
+git push origin live
+git pull origin staging
+git checkout live
+git pull origin live
+vim resources\assets\frontend\js\register-handlebar-helpers.js 
+vim app\Models\Branch.php 
+donedone
+choco install spotify
+clist -lo
+~
+clip -o > Export-Chocolatey.ps1
+clip
+clip /?
+clip > Export-Chocolatey.ps1
+xclip
+history | clip
+dir | clip
+cinst 
+cd Sites\
+cinst windows-dotfiles\packages.config
+pbpaste.exe 
+pbpaste > Export-Chocolatey.ps1
+vim Export-Chocolatey.ps1 
+Export-Chocolatey.ps1 > test.config
+vim test.config 
+rm test.config 
+Export-Chocolatey.ps1
+powershell
+mv packages.config windows-dotfiles\packages.config 
+cd windows-dotfiles\
+git status
+git add packages.config 
+git commit -m "Add packages.config for Choco installer"
+git push
+vim packages.config 
+htdocs 
+ls -lrt
+cd legal-asset-app\
+ls
+npm
+cinst.exe sysinternals
+whois -v wirebox.co.uk
+whois -v arunsahadeo.github.io
+whois -v theokouzelis.com
+whois theokouzelis.com
+whois
+whois -nobanner -v theokouzelis.com
+whois -nobanner -v wirebox.co.uk
+edit_hosts 
+ipconfig.exe /flush
+ipconfig.exe /flushdns
+pbcopy.exe %USERPROFILE%\.ssh\id_rsa.pub
+cat %USERPROFILE%\.ssh\id_rsa.pub | pbcopy
+ssh forgre@178.62.38.84
+ssh forge@178.62.38.84
+ssh vagrant@178.62.38.84
+git branch
+ssh root@178.62.38.84
+exit
+vim resources\views\website\pages\contact.blade.php 
+exit
+"exit
+exit
+alias
+cd platinum-gym\
+git diff-tree --no-commit-id --name-only -r ecff222f59dc98e0644e0c441bc17c153d1870cf
+git checkout feature/492-branch-list-number-not-clickable 
+vagrant ssh
+vagrant halt
+Downloads
+~
+cd Downloads\
+cd config\
+ls
+vim user-aliases.cmd 
+thunderbird
+cd mr-clutch-digital-diary\
+git reset --hard
+git pull origin feature/492-branch-list-number-not-clickable 
+htdocs 
+cd legal-asset-app\
+vim resources\views\app\hirer\top-nav.blade.php 
+vim ~\.ssh\known_hosts 
+vim %USERPROFILE%\.ssh
+vim %USERPROFILE%\.ssh\known_hosts
+git status
+git add resources\assets\*
+git add resources\views\frontend\*
+git add resources\views\app\*
+git diff resources\views\frontend\home\index.blade.php 
+vim resources\views\frontend\home\index.blade.php 
+git commit -m "Change CV privacy text, change home video text to darker grey, scale home How it Works icon on mobile, add employer dashboard top nav icons, padding fix, change role text & input border"
+git branch
+git pull origin staging
+git log
+git push origin staging
+git checkout -b feature/sync-heights
+vim resources\assets\js\sync-heights.js 
+gulp
+git push origin feature/sync-heights 
+ping mrclutch.com
+ping staging.www.mr-clutch.testmyurl.co.uk/
+ping staging.www.mr-clutch.testmyurl.co.uk
+ssh forge@138.68.151.254
+start powershell -Command "iwr -outf wirebox-logo.png https://pbs.twimg.com/profile_images/645968490210324480/mmZN7sbF.png"
+ls -lrt
+vim .env
+remotedebug_ios_webkit_adapter
+ios_webkit_debug_proxy
+exit
+vagrant halt
+slack 
+trello 
+donedone 
+xampp
+alias
+htdocs\
+htdocs
+cd legal-asset-app\
+ls
+vagrant up && vagrant ssh
+exit
+htdocs 
+cd legal-asset-app\
+ls
+git branch
+git status
+git add resources\views\app\emails\* resources\views\app\hirer\register.blade.php resources\views\frontend\how-it-works-employer\index.blade.php resources\views\frontend\register\index.blade.php 
+git add resources\assets\sass\*
+git commit -m "Items 2, 12, 13, 14, 19, 21, 22"
+git pull origin staging
+git push
+git push -u origin feature/latest-changes 
+vagrant halt
+exit
+htdocs 
+cd mr-clutch-digital-diary\
+vagrant up && vagrant ssh
+vagrant halt
+exit
